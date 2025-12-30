@@ -79,11 +79,11 @@ Led institution-wide enablement efforts to improve productivity, writing quality
 
 ### Eduvisor (Agentic AI for Academic Advising Exploration)
 
-Explores AI-guided academic advising and student support workflows through structured assistance and trusted knowledge access. Collaborated with campus partners (Sergio, Holly Jamieson, Imelda Basurto, Chris Cook) to define use cases, identify process improvement opportunities, and evaluate readiness for adoption.
+Explores AI-guided academic advising and student support workflows through structured assistance and trusted knowledge access. Collaborated with campus partners to define use cases, identify process improvement opportunities, and evaluate readiness for adoption.
 
 ### TechVisor (Agentic AI for Technology Guidance)
 
-Explores AI-guided technology decision support and service advancement through consistent, scalable assistance for campus users. Partnered with Harry, Llharehn, and Kyle to develop use cases that reduce support friction, improve service pathways, and strengthen campus technology enablement.
+Explores AI-guided technology decision support and service advancement through consistent, scalable assistance for campus users. Partnered with Technology Services - User Support and Service Desk to develop use cases that reduce support friction, improve service pathways, and strengthen campus technology enablement.
 
 ---
 
