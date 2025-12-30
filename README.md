@@ -125,7 +125,8 @@ A student-centered innovation event designed to promote future-ready skills thro
 
 ## Contributors & Partners
 
-This work reflects collaboration across Technology Services, academic and administrative units, and student contributors supporting the Bulldog Breed initiative.
+These outcomes reflect a collective effort led by **Technology Services**, with major contributions from **TEAM AI**, campus partners across academic and administrative units, and student contributors supporting the Bulldog Breed initiative.
+
 
 ---
 
