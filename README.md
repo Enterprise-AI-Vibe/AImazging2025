@@ -4,7 +4,7 @@
 
 ## TEAM AI – Digital Portfolio
 
-This repository documents key initiatives delivered by the **Digital Transformation** team at [Technology Services](technology.fresnostate.edu) in support of [Fresno State](www.fresnostate.edu)’s responsible, scalable adoption of Artificial Intelligence for teaching, learning, and university operations.
+This repository documents key DX|AI initiatives developed and delivered by the **Planning and Digital Transformation (DX)** team at [Technology Services](technology.fresnostate.edu) in support of [Fresno State](www.fresnostate.edu)’s responsible, scalable adoption of Artificial Intelligence for teaching, learning, and university operations.
 
 *The work represented here reflects cross-campus collaboration and aligns with institutional priorities for security, governance, accessibility, and digital transformation.*
 
