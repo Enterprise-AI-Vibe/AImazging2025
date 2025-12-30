@@ -4,7 +4,19 @@
 
 ## TEAM AI – Digital Portfolio
 
+<<<<<<< HEAD
 This repository documents key initiatives delivered by the **Digital Transformation** team within [Technology Services](https://technology.fresnostate.edu) in support of [Fresno State](https://www.fresnostate.edu)’s responsible, scalable adoption of Artificial Intelligence for teaching, learning, and university operations.
+============================================================================================================================================================================================================================================================
+
+This repository documents key DX|AI initiatives developed and delivered by the **Planning and Digital Transformation (DX)** team at [Technology Services](technology.fresnostate.edu) in support of [Fresno State](www.fresnostate.edu)’s responsible, scalable adoption of Artificial Intelligence for teaching, learning, and university operations.
+
+>>>>>>> 1462dcb2125fb09ab0d37d9a638d334435f00fc6
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
 
 *The work represented here reflects cross-campus collaboration and aligns with institutional priorities for security, governance, accessibility, and digital transformation.*
 
@@ -125,7 +137,7 @@ A student-centered innovation event designed to promote future-ready skills thro
 
 ## Contributors & Partners
 
-This work reflects collaboration across Technology Services, academic and administrative units, and student contributors supporting the Bulldog Breed initiative.
+These outcomes reflect a collective effort led by **Technology Services**, with major contributions from **TEAM AI**, campus partners across academic and administrative units, and student contributors supporting the Bulldog Breed initiative.
 
 ---
 
